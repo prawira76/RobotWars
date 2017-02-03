@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/RobotWars/bin/Debug
+/RobotWars/obj/Debug
+/RobotWars.Tests/obj/Debug
+/.vs/RobotWars/v14
